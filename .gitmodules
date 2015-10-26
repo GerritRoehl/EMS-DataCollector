@@ -1,0 +1,9 @@
+[submodule "ems-esp-link"]
+	path = ems-esp-link
+	url = git://github.com/susisstrolch/ems-esp-link
+[submodule "esp-link"]
+	path = esp-link
+	url = git://github.com/jeelabs/esp-link
+[submodule "ems-collector"]
+	path = ems-collector
+	url = git://github.com/maniac103/ems-collector
